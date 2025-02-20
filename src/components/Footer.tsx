@@ -8,7 +8,7 @@ const Footer = () => {
           © {new Date().getFullYear()} Pietrosul. All rights reserved.
         </p>
         <a
-          href="https://github.com/yourusername/plant-recognition"
+          href="https://github.com/pietrosul/Plant-Recognition"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 text-sm text-gray-500 hover:text-gray-700 transition-colors"
